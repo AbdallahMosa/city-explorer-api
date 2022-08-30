@@ -25,7 +25,7 @@ Finish time: 7:30 pm
 
  netlify:   https://630df978e7486b46b17607d2--inspiring-dolphin-eb7491.netlify.app/
 ![lab7 cycle](lab7.png)
-![lab8cycle](lab8.png)
+![lab8cycle](lab8.jpg)
 
 
 # request-response cycle
