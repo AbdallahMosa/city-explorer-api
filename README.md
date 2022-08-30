@@ -21,7 +21,9 @@ Start time: 2:00 pm
 Finish time: 7:30 pm
 
  my server in heroku  :  https://server-404.herokuapp.com/
+  
 
+ netlify:   https://630df978e7486b46b17607d2--inspiring-dolphin-eb7491.netlify.app/
 ![lab7 cycle](lab7.png)
 
 # request-response cycle
