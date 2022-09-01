@@ -9,6 +9,7 @@ const PORT = process.env.PORT || 3001;
 var weather = require("./weather");
 var movies = require("./movies");
 // http://localhost:3000/
+
 server.get("/", (req, res) => {
   res.send("Hi from the home route");
 });
